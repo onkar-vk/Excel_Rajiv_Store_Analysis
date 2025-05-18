@@ -1,7 +1,8 @@
-# Rajiv_Store_Analysis_MS-Excel: 
-**Rajiv Store Analysis and Build Interactive Dashboard using Advanced Excel** :
+# Rajiv_Store_Annual_Analysis_MS-Excel_Project: 
 
-**Rajiv Store Analysis report solve many problems and try to improve the sales and revenue:**
+**Rajiv Store Annual Analysis and Build Interactive Dashboard using Advanced Excel** :
+
+Rajiv Store Analysis report solve many problems and try to improve the sales and revenue:
 
 **1. Goal** : The primary goal of this project is to analyze Rajiv store performance data to identify sales trends, optimize inventory, and understand customer behavior. The project also involves creating an interactive dashboard to present actionable insights for stakeholders, aiding in data-driven decision-making.
 
