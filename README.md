@@ -19,6 +19,8 @@ The final deliverable is a user-friendly dashboard that allows management to mon
 - Dashboard Design: Designing intuitive and interactive visualizations for stakeholders.
 - Problem Solving: Identifying inefficiencies in operations and uncovering growth opportunities.
 
+## ![Rajiv Store Data Analysis Excel Project Dashoboard](https://github.com/user-attachments/assets/8c8bb588-acfe-4e3f-8757-34cbee82d668)
+
 **4. Technologies**
 - SQL: For querying databases and extracting relevant data.
 - Power Dax Query: For cleaning, data analyzing 
@@ -35,4 +37,4 @@ The final deliverable is a user-friendly dashboard that allows management to mon
 - Sales Performance, Seasonal spikes observed during festivals and weekends, 
 - Customer Insights, Geographic Trends,Inventory Management.
 
-# ![Rajiv Store Data Analysis Excel Project Dashoboard](https://github.com/user-attachments/assets/8c8bb588-acfe-4e3f-8757-34cbee82d668)
+## ![Rajiv Store Data Analysis Excel Project Dashoboard](https://github.com/user-attachments/assets/8c8bb588-acfe-4e3f-8757-34cbee82d668)
